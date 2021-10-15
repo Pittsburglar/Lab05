@@ -1,1 +1,1 @@
-# Lab05
+Our program shouts your name very loduly, then you give it a number and it shouts it that number of times again.
