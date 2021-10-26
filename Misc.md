@@ -1,0 +1,1 @@
+I went with the Contributer Covenant because it is one of if not the most widely used code of conduct.
